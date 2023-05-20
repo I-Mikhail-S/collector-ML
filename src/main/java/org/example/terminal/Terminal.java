@@ -7,11 +7,13 @@ public class Terminal {
     private int ID;
     private Point location;
     private Money money;
+    private double speed;
 
     public Terminal(int ID, Point location, Money money) {
         this.ID = ID;
         this.location = location;
         this.money = money;
+        this.speed = 50.0;
     }
 
     public Terminal() {
