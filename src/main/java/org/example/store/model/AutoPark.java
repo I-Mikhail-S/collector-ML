@@ -1,6 +1,4 @@
-package org.example.autoPark;
-
-import org.example.inkasator.Inkasator;
+package org.example.store.model;
 
 import java.util.List;
 
