@@ -2,5 +2,5 @@ package org.example.point;
 
 public class Point {
 
-    private double 
+    private double sdgag;
 }
